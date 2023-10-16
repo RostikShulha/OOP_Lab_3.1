@@ -1,0 +1,7 @@
+D:\Універ\OOP_Lab3.1\OOP_Lab3.1\bin\Debug\OOP_Lab3.1.exe.config
+D:\Універ\OOP_Lab3.1\OOP_Lab3.1\bin\Debug\OOP_Lab3.1.exe
+D:\Універ\OOP_Lab3.1\OOP_Lab3.1\bin\Debug\OOP_Lab3.1.pdb
+D:\Універ\OOP_Lab3.1\OOP_Lab3.1\obj\Debug\OOP_Lab3.1.csproj.AssemblyReference.cache
+D:\Універ\OOP_Lab3.1\OOP_Lab3.1\obj\Debug\OOP_Lab3.1.csproj.CoreCompileInputs.cache
+D:\Універ\OOP_Lab3.1\OOP_Lab3.1\obj\Debug\OOP_Lab3.1.exe
+D:\Універ\OOP_Lab3.1\OOP_Lab3.1\obj\Debug\OOP_Lab3.1.pdb
